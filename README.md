@@ -1,4 +1,4 @@
-# Data-Analyst-Intern2Grow-Internship-Task1
+# Data-Analyst-Intern2Grow-Internship-Task
 
 
 ## Task 1: Sales Data Analysis
