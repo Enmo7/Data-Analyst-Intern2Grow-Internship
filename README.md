@@ -8,7 +8,7 @@
 An assessment prepared by Intern2Grow, for its Data Analyst Virtual Internship Program.
 
 ## Dataset
-The dataset you will be using is a CSV file called sales_data.csv. It contains information about sales made by a fictional company over the course of a year. The columns in the dataset are as follows:
+The dataset we will be using is a CSV file called sales_data.csv. It contains information about sales made by a fictional company over the course of a year. The columns in the dataset are as follows:
 
 -  date: The date of the sale (in YYYY-MM-DD format)
 -  product: The name of the product sold
